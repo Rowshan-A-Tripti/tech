@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "course_name": "Web Developer",
+      "image": "https://i.ibb.co/nRHfZkB/development.png",
+      "price": "$999",
+      "description": "Dive into the fascinating world of quantum mechanics and learn about the strange and mind-bending behavior of subatomic particles. Quantum physics, also known as quantum mechanics, is a fundamental branch of physics that deals with the behavior of very small particles at the atomic and subatomic level. It is a highly complex and abstract field of study that has revolutionized our understanding of the fundamental building blocks of the universe. "
+    },
+    {
+      "id": 2,
+      "course_name": "Native React Developer",
+      "image": "https://i.ibb.co/ScXspvX/atom.png",
+      "price": "$499",
+      "description": "Explore the theoretical concepts of time travel, from wormholes to time dilation, and discover their implications on the fabric of space-time. Some theories of time travel suggest that when you travel to the past and make changes, you create a new branch of reality or a parallel universe, rather than altering your own timeline."
+    },
+    {
+      "id": 3,
+      "course_name": "Backend Developer",
+      "image": "https://i.ibb.co/5Tgjh80/software-development.png",
+      "price": "$299",
+      "description": "Learn the basic of organic and inorganic chemistry and understand how the chemical react. Chemistry is the scientific discipline that studies the properties, composition, structure, behavior, and changes of matter. It is a central science that bridges the gap between the physical sciences (physics) and the life sciences (biology). Chemistry plays a fundamental role in understanding the world around us and is essential in many aspects of daily life and various scientific and industrial applications."
+    },
+    {
+      "id": 4,
+      "course_name": "Content Creator",
+      "image": "https://i.ibb.co/wyG3fzz/content-creation.png",
+      "price": "$599",
+      "description": "Learn the basics of astronomy from an extraterrestrial perspective and understand how the cosmos might appear to beings from another world. Astronomy for Aliens is not a real educational course but rather a hypothetical or fictional concept. In science fiction or imaginative scenarios, might refer to an educational program or resource designed to introduce extraterrestrial beings to the field of astronomy or to help them understand the universe from a human perspective."
+    }
+    
+  ]
+  
